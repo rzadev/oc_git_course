@@ -1,1 +1,1 @@
-# oc_git_course
+# Repository for OpenClassrooms Git Course
